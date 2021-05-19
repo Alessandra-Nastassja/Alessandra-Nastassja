@@ -9,8 +9,5 @@ Also, there are projects in which you can participate, like: [NLW](https://githu
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alessandra-Nastassja&show_icons=true&theme=vue&title_color=505050)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandra-Nastassja&layout=compact&theme=vue&title_color=505050)](https://github.com/Alessandra-Nastassja/github-readme-stats)
 
-
-
-
 ******
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Alessandra-Nastassja/)](https://github.com/Alessandra-Nastassja/)
