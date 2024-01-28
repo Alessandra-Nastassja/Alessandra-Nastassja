@@ -1,13 +1,15 @@
 ### Hello world! 👋
 
-This is a form typical of presentation in the programming world. 
-I am currently a front-end developer.
-I have some projects on my Github, like: Calculator, Açougano and my portfolio.
-Also, there are projects in which you can participate, like: [NLW](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT), [Yuny](https://github.com/Alessandra-Nastassja/PROJECT-YUNY) and [Guide typescript](https://github.com/Alessandra-Nastassja/GUIDE-TYPESCRIPT).
+I have 5 years as a front-end developer. 
+I'm falling in love with UI and UX all day, every day. 🥰
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alessandra-Nastassja&show_icons=true&theme=vue&title_color=505050)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandra-Nastassja&layout=compact&theme=vue&title_color=505050)](https://github.com/Alessandra-Nastassja/github-readme-stats)
+I graduated in Internet Systems from FATEC Carapicuíba. 🎓
 
-******
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Alessandra-Nastassja/)](https://github.com/Alessandra-Nastassja/)
+I'm working with:
 
+- Angular 15+
+- Javascript, Typescript 
+- Testes (Jest, Karma, and Cypress)
+- HTML5 and CSS3 (SASS)
+- GIT (Bitbucket and Git Hub)
+- Azure Services. 
