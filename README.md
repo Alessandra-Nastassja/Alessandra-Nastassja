@@ -9,7 +9,7 @@ I graduated in Internet Systems from FATEC Carapicuíba. 🎓
 
 ### Now, I am working with:
 
-- Angular 15+
+- Angular 18+ (NgRx, RxJS) 
 - Javascript, Typescript 
 - Tests (Jest, Karma, and Cypress)
 - HTML5 and CSS3 (SASS)
